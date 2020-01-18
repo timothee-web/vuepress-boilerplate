@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/Macouta/vuepress-boilerplate/issues"
   },
-  "homepage": "https://github.com/Macouta/vuepress-boilerplate#readme"
+  "homepage": "https://github.com/Macouta/vuepress-boilerplate#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  },
 }
