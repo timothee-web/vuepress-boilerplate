@@ -28,5 +28,5 @@
   "homepage": "https://github.com/Macouta/vuepress-boilerplate#readme",
   "devDependencies": {
     "vuepress": "^1.2.0"
-  },
+  }
 }
