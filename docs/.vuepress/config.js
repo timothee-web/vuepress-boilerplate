@@ -23,12 +23,4 @@ module.exports = {
         prevLinks: false,
 
     },
-    plugins: [
-        ['vuepress-plugin-clean-urls',
-            {
-                normalSuffix: '/',
-                indexSuffix: '/',
-                notFoundPath: '/404',
-            }],
-    ],
 }
