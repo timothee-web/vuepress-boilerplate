@@ -1,5 +1,5 @@
 module.exports = {
-    base: "",
+    base: "/vuepress-boilerplate/",
     title: "Boilerplate",
     description: "boilerplate",
     head: [
