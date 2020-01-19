@@ -14,8 +14,8 @@ sections:
 - type: document
   path: docs/README.md
   label: Home
-upload_dir: uploads
-public_path: "/uploads"
+upload_dir: assets
+public_path: "/assets"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
