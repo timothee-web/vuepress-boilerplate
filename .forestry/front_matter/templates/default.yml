@@ -1,0 +1,42 @@
+---
+label: default
+hide_body: false
+display_field: title
+fields:
+- type: text
+  name: title
+  label: title
+  description: page title. Displayed in search engines and in browser tabs.
+- name: lang
+  type: text
+  config:
+    required: false
+  label: lang
+  description: Language of current page (en-US, fr)
+- type: text
+  name: description
+  label: description
+  description: page description, displayed under the title in search engines.
+- name: meta
+  type: field_group_list
+  fields:
+  - name: name
+    type: text
+    config:
+      required: false
+    label: name
+    description: meta tags name attribute. It can be "title", "description", "robots",
+      etc...
+  - name: content
+    type: text
+    config:
+      required: false
+    description: meta tags content attribute.
+    label: content
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: meta
+  description: Meta tags (useful for SEO).
+pages:
