@@ -41,6 +41,7 @@ fields:
   description: Meta tags (useful for SEO).
 pages:
 - docs/Perso/jdb-indonésie.md
+- docs/Photos/Events/loy-krathong.md
 - docs/Photos/People/nudes.md
 - docs/Photos/People/people-in-landscapes.md
 - docs/Photos/People/portraits.md
