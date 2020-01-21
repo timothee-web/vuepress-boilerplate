@@ -1,6 +1,6 @@
 +++
 description = "Kodama photography and video"
-lang = "anglais"
+lang = "en-US"
 title = "KODAMA"
 
 +++
