@@ -1,7 +1,7 @@
 +++
-description = "ici c joli"
-lang = "fr"
-title = "Journal de bord"
+description = "Kodama photography and video"
+lang = "anglais"
+title = "KODAMA"
 
 +++
 # Le site de Tim
