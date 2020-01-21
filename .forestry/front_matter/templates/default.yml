@@ -39,3 +39,5 @@ fields:
     labelField: 
   label: meta
   description: Meta tags (useful for SEO).
+pages:
+- docs/journal-de-bord.md
