@@ -40,4 +40,5 @@ fields:
   label: meta
   description: Meta tags (useful for SEO).
 pages:
+- docs/Photos/drone.md
 - docs/journal-de-bord.md
