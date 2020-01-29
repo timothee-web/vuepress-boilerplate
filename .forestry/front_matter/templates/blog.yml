@@ -5,3 +5,5 @@ fields:
 - name: test
   type: boolean
   label: test
+pages:
+- docs/README.md
