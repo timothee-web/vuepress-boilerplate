@@ -1,4 +1,7 @@
 ---
 label: blog
 hide_body: true
-fields: []
+fields:
+- name: test
+  type: boolean
+  label: test
