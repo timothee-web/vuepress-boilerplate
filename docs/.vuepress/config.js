@@ -2,7 +2,7 @@ const config = require('../config.json');
 module.exports = {
   title: config.title,
   description: config.description,
-  base: "/",
+  base: "/vuepress-boilerplate/",
   themeConfig: {
     logo: config.logo,
     footer: config.footer,
