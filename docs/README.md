@@ -1,7 +1,7 @@
 +++
-description = "Kodama photography and video"
-lang = "en-US"
-title = "KODAMA"
+description = ""
+lang = ""
+title = ""
 
 +++
 # KODAMA
