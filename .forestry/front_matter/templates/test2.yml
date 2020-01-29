@@ -1,4 +1,9 @@
 ---
 label: test2
 hide_body: false
-fields: []
+fields:
+- name: eaze
+  type: text
+  config:
+    required: false
+  label: eaze
