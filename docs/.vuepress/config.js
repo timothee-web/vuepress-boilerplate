@@ -1,26 +1,19 @@
+const config = require('../config.json');
 module.exports = {
-    base: "/vuepress-boilerplate/",
-    title: "Boilerplate",
-    description: "boilerplate",
-    head: [
-        ['link', { rel: 'icon', href: "/favicon.ico"}]
-    ],
-    themeConfig: {
-        // search
-        sidebar: [
-        ],
-        search: false,
-
-        // if your docs are in a different repo from your main project:
-        docsRepo: 'Macouta/Mamoru',
-        // root of the doc:
-        docsDir: 'docs',
-        // branch of the doc:
-        docsBranch: 'master',
-        // default value is true. Allows to hide next page links on all pages
-        nextLinks: false,
-        // default value is true. Allows to hide prev page links on all pages
-        prevLinks: false,
-
-    },
-}
+  title: config.title,
+  description: config.description,
+  base: "/",
+  themeConfig: {
+    logo: config.logo,
+    footer: config.footer,
+    nav: config.navigation,
+  },
+  head: [
+    ['link', { rel: "icon", href: config.favicon }]
+  ],
+  markdown: {
+    anchor: {
+      permalink: false
+    }
+  }
+};
