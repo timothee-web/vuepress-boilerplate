@@ -1,7 +1,0 @@
-+++
-description = ""
-lang = ""
-title = ""
-
-+++
-# KODAMA
