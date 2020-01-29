@@ -1,6 +1,4 @@
-+++
-test = true
-title = "cc ?"
-
-+++
+---
+test: true
+---
 # KODAMA
